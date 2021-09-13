@@ -89,7 +89,8 @@ Note: These questions are not designed to support any specific career level but 
 - Can you explain deadlock and limitations of workers?
 - How to initiate and terminate a worker?
 - Can you deploy service workers on http driven web page?
-- Web Security
+
+## Web Security
 - What is Content Security Policy?
 - What are XSS and CSRF attacks?
 - Do you know how to avoid server side JavaScript Injection?
