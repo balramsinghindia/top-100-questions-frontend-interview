@@ -1,4 +1,4 @@
-# top-100-questions-frontend-interview
+# Top 100 questions frontend interview
 
 ## Are you hiring for your company or a project and don’t know what to ask from a Frontend dev?
 
