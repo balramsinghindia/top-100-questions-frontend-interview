@@ -41,6 +41,7 @@ Note: These questions are not designed to support any specific career level but 
 - Do you know about preload and prefetch in Webpack?
 - Can you create plugin in Webpack?
 - Can you describe Tree shaking in Webpack?
+- What is Module Federation in Webpack 5?
 
 
 ## Node.js
