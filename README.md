@@ -30,6 +30,28 @@ Note: These questions are not designed to support any specific career level but 
 - Why react introduces hooks lately?
 - Tell me about Redux thunk/saga and Mobx store?
 - What advantages you see choosing SSR(Server side rendering) vs CSR (Client side rendering)in React?
+- Private Routes
+- Do Hooks replace render props and higher order components?
+- how to create custom hook?
+- Why fragments are better than container divs?
+- How to pas child component?
+- how to manage react routes? How to push paths in Saga?
+- How to perform automatic redirect after login? or Protected Routes?
+- React: 18? automatic batch? new Transtion API? The suspence API?
+- lazy Loading in React?
+- what is Strict mode in React?
+- Identifying components with unsafe lifecycle methods.
+- Warning about legacy string ref API usage.
+- Detecting unexpected side effects.
+- Warning about deprecated findDOMNode usage
+- Detecting legacy context API.
+- How to prevent a function from being called multiple times?
+- What is the use of react-dom package?
+- render()
+- hydrate()
+- unmountComponentAtNode()
+- findDOMNode()
+- createPortal()
 
 ## WebPack
 - What are loaders?
